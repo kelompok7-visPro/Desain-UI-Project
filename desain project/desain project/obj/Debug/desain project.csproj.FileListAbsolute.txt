@@ -1,0 +1,25 @@
+C:\Users\HP\source\repos\desain project\desain project\bin\Debug\desain project.exe.config
+C:\Users\HP\source\repos\desain project\desain project\bin\Debug\desain project.exe
+C:\Users\HP\source\repos\desain project\desain project\bin\Debug\desain project.pdb
+C:\Users\HP\source\repos\desain project\desain project\obj\Debug\desain project.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\desain project\desain project\obj\Debug\desain_project.Form1.resources
+C:\Users\HP\source\repos\desain project\desain project\obj\Debug\desain_project.Form2.resources
+C:\Users\HP\source\repos\desain project\desain project\obj\Debug\desain_project.Form3.resources
+C:\Users\HP\source\repos\desain project\desain project\obj\Debug\desain_project.Form4.resources
+C:\Users\HP\source\repos\desain project\desain project\obj\Debug\desain_project.Form5.resources
+C:\Users\HP\source\repos\desain project\desain project\obj\Debug\desain_project.Properties.Resources.resources
+C:\Users\HP\source\repos\desain project\desain project\obj\Debug\desain project.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\desain project\desain project\obj\Debug\desain project.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\desain project\desain project\obj\Debug\desain project.exe
+C:\Users\HP\source\repos\desain project\desain project\obj\Debug\desain project.pdb
+C:\Users\HP\source\repos\desain project\desain project\obj\Debug\desain_project.Form10.resources
+C:\Users\HP\source\repos\desain project\desain project\obj\Debug\desain_project.Form11.resources
+C:\Users\HP\source\repos\desain project\desain project\obj\Debug\desain_project.Form12.resources
+C:\Users\HP\source\repos\desain project\desain project\obj\Debug\desain_project.Form13.resources
+C:\Users\HP\source\repos\desain project\desain project\obj\Debug\desain_project.Form14.resources
+C:\Users\HP\source\repos\desain project\desain project\obj\Debug\desain_project.Form15.resources
+C:\Users\HP\source\repos\desain project\desain project\obj\Debug\desain_project.Form16.resources
+C:\Users\HP\source\repos\desain project\desain project\obj\Debug\desain_project.Form6.resources
+C:\Users\HP\source\repos\desain project\desain project\obj\Debug\desain_project.Form7.resources
+C:\Users\HP\source\repos\desain project\desain project\obj\Debug\desain_project.Form8.resources
+C:\Users\HP\source\repos\desain project\desain project\obj\Debug\desain_project.Form9.resources
